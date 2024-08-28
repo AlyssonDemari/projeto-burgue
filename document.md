@@ -38,3 +38,6 @@ Aqui estão algumas sugestões de próximos passos para quem quiser contribuir o
    - Criar páginas adicionais, como uma página de blog, galeria de fotos, ou uma seção de depoimentos de clientes.
 
 
+## mudanças 
+
+alysson: Adicionei as bebidas e modifiquei as imagens 27/08
